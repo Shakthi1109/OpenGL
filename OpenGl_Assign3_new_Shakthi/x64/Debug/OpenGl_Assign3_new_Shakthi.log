@@ -1,0 +1,4 @@
+﻿  glad.c
+  main.cpp
+C:\Users\Shakthi\Desktop\SHAKTHI\ESIEE\ECOLE\E5\P2\INF-5204C - Computer Graphics and Open GL\TP3\OpenGl_Assign3_new_Shakthi\main.cpp(205,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGl_Assign3_new_Shakthi.vcxproj -> C:\Users\Shakthi\Desktop\SHAKTHI\ESIEE\ECOLE\E5\P2\INF-5204C - Computer Graphics and Open GL\TP3\OpenGl_Assign3_new_Shakthi\x64\Debug\OpenGl_Assign3_new_Shakthi.exe
